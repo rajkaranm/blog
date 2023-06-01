@@ -1,13 +1,13 @@
 ---
-title: 'How to get Started with Programming'
+title: '#1 - How to get Started with Programming'
 date: '2023-05-25'
 ---
 
 # How to Start Your Programming Journey.
 
-If you planing to start with programming by watching some movies that fantasizing programming them wait for second and thing again, Because in reality programming is very different most of the your are going to frustrated solving a coding problem.
+If you planing to start with programming by watching some movies that fantasizing programming them wait for second and think again, Because in reality, Programming is very different, Most of the you are going to frustrated solving a coding problem.
 
-But if have specific goal or you want earn a lot money then of course this field have a lot of money. But you have a be a problem solver because if you look deeply you are solving a lot of problems of the company that you will join or a customer you got on freelancing website.
+But if have specific goal or you want earn a lot money then, Off course this field have a great potential. But you have to be a problem solver, Because if you look deeply, You are solving a lot of problems of the company that you will join or a customer you got on freelancing website.
 
 So be prepared to face hell, because starting to learn coding is very hard most the people give up in the first stage but the people are able to overcome this phase are real hard working and problem solvers.
 
