@@ -1,4 +1,3 @@
-
 ---
 title: '#2 - Why JavaScript Developers are Very Active'
 date: '2023-06-16'
