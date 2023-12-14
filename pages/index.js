@@ -12,10 +12,10 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi I'm Software Engineer and Aspiring Data Scientist, I like to write blogs</p>
+        <p>Hi I'm Software Engineer and Ethical Hacker, I love to experiment with new habit, tools and whatever that interests me. I also Love to share some insights about it here on my blog.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
+        <h2 className={utilStyles.headingLg}>Blogs</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
