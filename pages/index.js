@@ -12,7 +12,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p style={{margin: "0", textAlign: "center"}}> I'm currently as a Software Developer but I've huge interest in cybersecurity (Only Ethically ☠️) and I'm also a hobbyist Game Maker, just for fun and learning.</p>
+        <p style={{margin: "0", textAlign: "center"}}> I'm currently working as a Software Developer but I've huge interest in CyberSecurity (Ethically ☠️) and I'm also a hobbyist Game Maker.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 style={{marginTop: "3rem", fontSize: "1.2rem"}}>Blogs</h2>
