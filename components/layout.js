@@ -4,12 +4,15 @@ import Script from 'next/script'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
+import Navbar from './Navbar'
 
-const name = "Rajkaran's Tech Blog ☠️"
+const name = "Rajkaran's Tech Blog"
 export const siteTitle = "Rajkaran's Tech Blog"
 
 export default function Layout({ children, home }) {
   return (
+    <>
+    <Navbar />
     <div className={styles.container}>
       <Head>
         <link rel="icon" href="/favicon.ico" />
@@ -55,5 +58,6 @@ export default function Layout({ children, home }) {
         </div>
       )}
     </div>
+    </>
   )
 }
